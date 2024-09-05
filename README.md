@@ -35,7 +35,7 @@ Name the New Folder: A dialog will prompt you to enter a name for the new subfol
 
 Move Files: After selecting both the source and destination folders and entering the subfolder name, click "Move Files" to move the selected files and directories.
 
-###F eatures in Action
+###Features in Action
 Subfolder Creation: When you enter a custom folder name, the program creates that folder in the destination directory and moves all files and directories from the source into it.
 Moving Folders: The program can move not only individual files but also entire directories, preserving the original folder structure.
 Development
